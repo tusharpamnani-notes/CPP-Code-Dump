@@ -5,6 +5,10 @@
   You need to find and return that number which is unique in the array/list.
 */
 
+/* Link to the question
+  https://www.codingninjas.com/studio/problems/find-unique_625159?source=youtube&campaign=love_babbar_codestudio1&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio1
+*/  
+
 int findUnique(int *arr, int size)
 {
     int result = 0;
